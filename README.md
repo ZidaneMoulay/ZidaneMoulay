@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Fullstack web development, Devops**
 
-- 📫 How to reach me **zidaneMG22@outlook.fr**
+- 📫 How to reach me : **zidaneMG22@outlook.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/zidane-moulay](https://www.linkedin.com/in/zidane-moulay-562045223/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zidanemoulay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zidane-moulay-562045223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zidanemoulay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
